@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>19-detik</h1>
+<p>My first paragraph.</p>
+
+</body> <div class="footer-bottom">
+
+      	<div class="row">
+
+      		<div class="col-twelve">
+	      		<div class="copyright">
+		         	<span>© Copyright Dazzle 2018.</span> 
+		         	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
+		         </div>
+
+		         <div id="go-top">
+		            <a class="smoothscroll" title="Back to Top" href="#top"><i class="icon-arrow-up"></i></a>
+		         </div>         
+	      	</div>
+
+      	</div> <!-- end footer-bottom -->     	
+
+      </div>
+
+    </footer>
+
+    <div id="preloader"> 
+    	<div id="loader"></div>
+    </div>  
+
+    <!-- Java Script
+    ================================================== -->
+    <script src="js/jquery-2.1.3.min.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+
+</html>
